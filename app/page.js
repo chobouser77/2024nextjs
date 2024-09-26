@@ -1,4 +1,7 @@
 import Image from "next/image";
+// git remote add orgin 아래
+// https://github.com/chobouser77/2024nextjs.git
+// start .
 // 업로드 방법
 // git add .
 // git commit -m "work"
