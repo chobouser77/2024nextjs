@@ -1,4 +1,5 @@
 import Image from "next/image";
+// 업로드 방법
 // git add .
 // git commit -m "work"
 // git push orgin main
