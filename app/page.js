@@ -12,6 +12,7 @@ export default function Home() {
   return (
     <div className="text-[blue] bg-[gray] w-[full] h-[1000px] flex items-center justify-center">
       안녕!!!
+      git
       </div>
       
   );
